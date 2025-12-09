@@ -1,16 +1,87 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.png" width="100%" alt="Banner - Matheus Pereiira" />
+</p>
 
-<!--
-**MatheusPereiira/MatheusPereiira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Olá, eu sou o Matheus Pereiira</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Software Engineer | Python Developer | Estudante de Engenharia de Software</b><br>
+  Atualmente cursando Engenharia de Software na <b>Faculdade de Nova Serrana – FANS</b>.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Sobre Mim
+
+🎓 Estudante de **Engenharia de Software** pela **FANS – Faculdade de Nova Serrana**  
+🐍 Desenvolvedor **Python**, com foco em automação, ferramentas e aplicações desktop  
+🧠 Interessado em práticas de arquitetura, documentação técnica e engenharia de software  
+💼 Buscando oportunidades para aplicar e evoluir minhas habilidades em projetos reais  
+
+📍 **Nova Serrana - MG**  
+🔗 **LinkedIn:** [Clique aqui para acessar](https://www.linkedin.com/in/matheus-pereira-722360398/)  
+
+---
+
+## 🧠 Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff"/>
+</p>
+
+---
+
+## 📂 Projetos em Destaque
+
+### 🔹 **Crypto Monitor**
+Aplicação desktop para monitoramento em tempo real de criptomoedas via WebSockets da Binance.  
+Inclui alertas configuráveis, interface organizada e dados atualizados.
+
+🔗 Repositório: https://github.com/MatheusPereiira/projeto-crypto-monitor  
+
+---
+
+### 🔹 **ADR Tools**
+Ferramenta para documentação e gestão de *Architecture Decision Records* em projetos de software.
+
+🔗 Repositório: https://github.com/MatheusPereiira/projeto-adr-tools-
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusPereiira&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPereiira&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Snake Animation – Suas Contribuições
+
+<p align="center">
+  <img src="https://github.com/MatheusPereiira/MatheusPereiira/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🌎 Onde me encontrar
+
+📌 **LinkedIn:**  
+https://www.linkedin.com/in/matheus-pereira-722360398/
+
+📧 **Email:**  
+sabonaltacontato@hotmail.com
+
+💼 **GitHub:**  
+https://github.com/MatheusPereiira
+
+---
+
+<h3 align="center">Obrigado por visitar meu perfil!</h3>
+<p align="center">Fique à vontade para explorar meus projetos ou entrar em contato.</p>
