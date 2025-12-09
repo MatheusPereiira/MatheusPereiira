@@ -1,10 +1,5 @@
 <p align="center">
   <img src="banner.png" width="100%" alt="Banner - Matheus Pereiira" />
-</p>
-
-<h1 align="center">Olá, eu sou o Matheus Pereiira</h1>
-
-<p align="center">
   <b>Software Engineer | Python Developer | Estudante de Engenharia de Software</b><br>
   Atualmente cursando Engenharia de Software na <b>Faculdade de Nova Serrana – FANS</b>.
 </p>
@@ -68,4 +63,5 @@ https://github.com/MatheusPereiira
 
 <h3 align="center">Obrigado por visitar meu perfil!</h3>
 <p align="center">Fique à vontade para explorar meus projetos ou entrar em contato.</p>
+
 
