@@ -53,23 +53,6 @@ Ferramenta para documentação e gestão de *Architecture Decision Records* em p
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusPereiira&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPereiira&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🐍 Snake Animation – Suas Contribuições
-
-<p align="center">
-  <img src="https://github.com/MatheusPereiira/MatheusPereiira/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 ## 🌎 Onde me encontrar
 
 📌 **LinkedIn:**  
@@ -85,3 +68,4 @@ https://github.com/MatheusPereiira
 
 <h3 align="center">Obrigado por visitar meu perfil!</h3>
 <p align="center">Fique à vontade para explorar meus projetos ou entrar em contato.</p>
+
