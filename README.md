@@ -41,10 +41,10 @@ Inclui alertas configuráveis, interface organizada e dados atualizados.
 
 ---
 
-### 🔹 **ADR Tools**
-Ferramenta para documentação e gestão de *Architecture Decision Records* em projetos de software.
+### 🔹 **QR CODE Generator**
+Permite criar códigos com diferentes conteúdos, personalização visual e exportação em formatos de imagem de forma simples e rápida.
 
-🔗 Repositório: https://github.com/MatheusPereiira/projeto-adr-tools-
+🔗 Repositório: https://github.com/MatheusPereiira/projeto-qr-code-generator-simples
 
 ---
 
@@ -63,5 +63,6 @@ https://github.com/MatheusPereiira
 
 <h3 align="center">Obrigado por visitar meu perfil!</h3>
 <p align="center">Fique à vontade para explorar meus projetos ou entrar em contato.</p>
+
 
 
