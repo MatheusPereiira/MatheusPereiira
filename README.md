@@ -8,10 +8,10 @@
 
 ## 📌 Sobre Mim
 
-🎓 Estudante de **Engenharia de Software** pela **FANS – Faculdade de Nova Serrana**.  
-🐍 Desenvolvedor **Python**, com foco em automação, ferramentas e aplicações desktop.  
-🧠 Interessado em práticas de arquitetura, documentação técnica e engenharia de software.  
-💼 Buscando oportunidades para aplicar e evoluir minhas habilidades.
+- Estudante de **Engenharia de Software** pela **FANS – Faculdade de Nova Serrana**.  
+- Desenvolvedor **Python**, com foco em automação, ferramentas e aplicações desktop.  
+- Interessado em práticas de arquitetura, documentação técnica e engenharia de software.  
+- Buscando oportunidades para aplicar e evoluir minhas habilidades.
 
 📍 **Nova Serrana - MG**  
 🔗 **LinkedIn:** [Clique aqui para acessar](https://www.linkedin.com/in/matheus-pereira-722360398/)  
@@ -63,6 +63,7 @@ https://github.com/MatheusPereiira
 
 <h3 align="center">Obrigado por visitar meu perfil!</h3>
 <p align="center">Fique à vontade para explorar meus projetos ou entrar em contato.</p>
+
 
 
 
