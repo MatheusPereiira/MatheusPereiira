@@ -31,7 +31,7 @@
 ## 📂 Projetos em Destaque
 
 ### **Crypto Monitor**
-Aplicação desktop para monitoramento em tempo real de criptomoedas via WebSockets da Binance.  
+- Aplicação desktop para monitoramento em tempo real de criptomoedas via WebSockets da Binance.  
 Inclui alertas configuráveis, interface organizada e dados atualizados.
 
 Repositório: https://github.com/MatheusPereiira/projeto-crypto-monitor  
@@ -39,7 +39,7 @@ Repositório: https://github.com/MatheusPereiira/projeto-crypto-monitor
 ---
 
 ### **QR CODE Generator**
-Permite criar códigos com diferentes conteúdos, personalização visual e exportação em formatos de imagem de forma simples e rápida.
+- Permite criar códigos com diferentes conteúdos, personalização visual e exportação em formatos de imagem de forma simples e rápida.
 
 Repositório: https://github.com/MatheusPereiira/projeto-qr-code-generator-simples
 
@@ -60,6 +60,7 @@ https://github.com/MatheusPereiira
 
 <h3 align="center">Obrigado por visitar meu perfil!</h3>
 <p align="center">Fique à vontade para explorar meus projetos ou entrar em contato.</p>
+
 
 
 
