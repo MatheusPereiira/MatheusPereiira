@@ -44,21 +44,22 @@ Repositório: https://github.com/MatheusPereiira/projeto-qr-code-generator-simpl
 
 ---
 
-## 🌎 Onde me Encontrar
+## 📍 Onde me Encontrar
 
-📍 **LinkedIn:**  
+👤 **LinkedIn:**  
 https://www.linkedin.com/in/matheus-pereira-722360398/
 
 📧 **Email:**  
 sabonaltacontato@hotmail.com
 
-🔗 **GitHub:**  
+💻 **GitHub:**  
 https://github.com/MatheusPereiira
 
 ---
 
 <h3 align="center">Obrigado por visitar meu perfil!</h3>
 <p align="center">Fique à vontade para explorar meus projetos ou entrar em contato.</p>
+
 
 
 
