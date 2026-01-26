@@ -37,10 +37,10 @@ Repositório: https://github.com/MatheusPereiira/projeto-staff-time-tracking
 
 ---
 
-### **QR CODE Generator**
-- Permite criar códigos com diferentes conteúdos, personalização visual e exportação em formatos de imagem de forma simples e rápida.
+### **Sistema ERP**
+- Sistema ERP Desktop desenvolvido em Python, com foco em gestão comercial, financeira, controle de estoque e cadastros.
 
-Repositório: https://github.com/MatheusPereiira/projeto-qr-code-generator-simples
+Repositório: https://github.com/MatheusPereiira/python-erp
 
 ---
 
@@ -59,6 +59,7 @@ https://github.com/MatheusPereiira
 
 <h3 align="center">Obrigado por visitar meu perfil!</h3>
 <p align="center">Fique à vontade para explorar meus projetos ou entrar em contato.</p>
+
 
 
 
