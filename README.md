@@ -33,7 +33,7 @@
 ### **Controle de Ponto Corporativo**
 - Aplicação desktop desenvolvida em Python + PyQt6 para controle de ponto corporativo, permitindo o registro de entrada/saída de funcionários.
 
-Repositório: https://github.com/MatheusPereiira/projeto-staff-time-tracking 
+Repositório: https://github.com/MatheusPereiira/staff-time-tracking 
 
 ---
 
@@ -59,6 +59,7 @@ https://github.com/MatheusPereiira
 
 <h3 align="center">Obrigado por visitar meu perfil!</h3>
 <p align="center">Fique à vontade para explorar meus projetos ou entrar em contato.</p>
+
 
 
 
