@@ -15,7 +15,7 @@
 
 ---
 
-## 📌 Sobre Mim
+## 📌 Sobre Mim...
 
 - Estudante de **Engenharia de Software** pela **FANS – Faculdade de Nova Serrana**.  
 - Desenvolvedor **Python**, com foco em automação, ferramentas e aplicações desktop.  
@@ -24,7 +24,7 @@
 
 ---
 
-## 🧠 Tecnologias & Ferramentas
+## 🧠 Tecnologias & Ferramentas...
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" />
@@ -43,11 +43,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
 </div>
 
 ---
 
-## 📂 Projetos em Destaque
+## 📂 Projetos em Destaque...
 
 ### **Controle de Ponto Corporativo**
 - Aplicação desktop desenvolvida em Python + PyQt6 para controle de ponto corporativo, permitindo o registro de entrada/saída de funcionários.
@@ -63,7 +66,7 @@ Repositório: https://github.com/MatheusPereiira/python-erp
 
 ---
 
-## 📍 Onde me Encontrar
+## 📍 Onde me Encontrar...
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matheus-pereira-722360398/" target="_blank">
@@ -74,7 +77,12 @@ Repositório: https://github.com/MatheusPereiira/python-erp
   </a>
 </div>
 
+<p align="center">Fique à vontade para explorar meus projetos ou entrar em contato.</p>
+
 ---
+
+
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusPereiira/MatheusPereiira/output/github-contribution-grid-snake-dark.svg">
@@ -82,22 +90,13 @@ Repositório: https://github.com/MatheusPereiira/python-erp
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MatheusPereiira/MatheusPereiira/output/github-contribution-grid-snake.svg">
 </picture>
 
----
-
-<h3 align="center">Obrigado por visitar meu perfil!</h3>
-<p align="center">Fique à vontade para explorar meus projetos ou entrar em contato.</p>
 
 
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=22&pause=1000&color=176FA6&center=true&vCenter=true&width=435&lines=Obrigado+por+visitar+meu+perfil!" />
+  </a>
+</p>
 
 
 
