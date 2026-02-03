@@ -1,3 +1,11 @@
+<div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=146ca4"
+    alt="Header"
+  />
+</div>
+
 <h1 align="center"></h1>
 
 <p align="center">
@@ -50,19 +58,23 @@
 
 ---
 
-## 📂 Projetos em Destaque...
-
-### **Controle de Ponto Corporativo**
-- Aplicação desktop desenvolvida em Python + PyQt6 para controle de ponto corporativo, permitindo o registro de entrada/saída de funcionários.
-
-Repositório: https://github.com/MatheusPereiira/staff-time-tracking 
-
----
-
-### **Sistema ERP**
-- Sistema ERP Desktop desenvolvido em Python, com foco em gestão comercial, financeira, controle de estoque e cadastros.
-
-Repositório: https://github.com/MatheusPereiira/python-erp
+<div align="center">
+  <img
+    width="300"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusPereiira&theme=github_dark"
+    alt="General stats"
+  />
+  <img
+    width="300"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusPereiira&theme=github_dark"
+    alt="Top languages"
+  />
+  <img
+    width="300"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MatheusPereiira&theme=github_dark&utcOffset=-3"
+    alt="Commits per day"
+  />
+</div>
 
 ---
 
@@ -70,19 +82,17 @@ Repositório: https://github.com/MatheusPereiira/python-erp
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matheus-pereira-722360398/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="70" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/sabozim/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=yellow&logoColor=white&labelColor=yellow&style=for-the-badge" height="70" alt="instagram logo"  />
   </a>
 </div>
 
-<p align="center">Fique à vontade para explorar meus projetos ou entrar em contato.</p>
+
+ <b><p align="center">Fique à vontade para explorar meus projetos ou entrar em contato.</p><br>
 
 ---
-
-
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusPereiira/MatheusPereiira/output/github-contribution-grid-snake-dark.svg">
@@ -99,12 +109,13 @@ Repositório: https://github.com/MatheusPereiira/python-erp
 </p>
 
 
-
-
-
-
-
-
+<div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&color=f8dc4c"
+    alt="Footer"
+  />
+</div>
 
 
 
