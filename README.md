@@ -69,11 +69,6 @@
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusPereiira&theme=github_dark"
     alt="Top languages"
   />
-  <img
-    width="300"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MatheusPereiira&theme=github_dark&utcOffset=-3"
-    alt="Commits per day"
-  />
 </div>
 
 ---
@@ -116,6 +111,7 @@
     alt="Footer"
   />
 </div>
+
 
 
 
