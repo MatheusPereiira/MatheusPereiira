@@ -85,7 +85,7 @@
 </div>
 
 
- <b><p align="center">Fique à vontade para explorar meus projetos ou entrar em contato.</p><br>
+ <b><p align="center">| Fique à vontade para explorar meus projetos ou entrar em contato. |</p><br>
 
 ---
 
@@ -111,6 +111,7 @@
     alt="Footer"
   />
 </div>
+
 
 
 
