@@ -61,12 +61,12 @@
 <div align="center">
   <img
     width="300"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusPereiira&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusPereiira&theme=github_dark" 
     alt="General stats"
   />
   <img
     width="300"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusPereiira&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatheusPereiira&theme=github_dark"
     alt="Top languages"
   />
 </div>
@@ -111,6 +111,7 @@
     alt="Footer"
   />
 </div>
+
 
 
 
