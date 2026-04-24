@@ -25,7 +25,7 @@
 
 ## 📌 Sobre Mim...
 
-- Estudante de **Engenharia de Software** pela **FANS – Faculdade de Nova Serrana.**.  
+- Estudante de **Engenharia de Software** pela **FANS – Faculdade de Nova Serrana.**
 - Desenvolvedor **Python**, com foco em automação, ferramentas e aplicações desktop.  
 - Interessado em práticas de arquitetura, documentação técnica e engenharia de software.  
 - Buscando oportunidades para aplicar e evoluir minhas habilidades.
