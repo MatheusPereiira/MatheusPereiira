@@ -23,7 +23,7 @@
 
 ---
 
-## 📌 Sobre Mim...
+##  Sobre Mim...
 
 - Estudante de **Engenharia de Software** pela **FANS – Faculdade de Nova Serrana.**
 - Desenvolvedor **Python**, com foco em automação, ferramentas e aplicações desktop.  
@@ -32,7 +32,7 @@
 
 ---
 
-## 🧠 Tecnologias & Ferramentas...
+##  Tecnologias & Ferramentas...
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" />
@@ -73,7 +73,7 @@
 
 ---
 
-## 📍 Onde me Encontrar...
+##  Onde me Encontrar...
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matheus-pereira-722360398/" target="_blank">
