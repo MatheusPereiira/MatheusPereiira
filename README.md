@@ -85,8 +85,6 @@
 </div>
 
 
- <b><p align="center">| Fique à vontade para explorar meus projetos ou entrar em contato. |</p><br>
-
 ---
 
 <p align="center">
